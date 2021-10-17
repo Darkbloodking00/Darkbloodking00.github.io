@@ -1,5 +1,10 @@
-body {
-    background:url('/Amogus/Rainbow.gif') repeat-y 100% 100% fixed;
-    height:100%;
-    width:100%;
+body{
+    background-image: url('/Amogus/Rainbow.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
 }
